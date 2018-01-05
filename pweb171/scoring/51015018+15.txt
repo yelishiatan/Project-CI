@@ -1,0 +1,2 @@
++10 Tugas selesai
++5 untuk 1 controller + banyak function

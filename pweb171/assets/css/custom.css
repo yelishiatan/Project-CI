@@ -1,0 +1,76 @@
+body {
+  background-color: #E3F2FD;
+  font-family: Verdana; }
+
+#menu
+{
+  color : #E3F2FD;
+}
+h1
+{
+  text-align: center;
+}
+
+#jl
+{
+  font-style: oblique;
+  color: #42A5F5;
+}
+
+#judul
+{
+font-family:Verdana;
+background-color:#42A5F5;
+color: #ffffff;
+}
+
+a:link, a:visited, a:active
+{
+  width: 200px;
+  margin: 2px;
+  background-color: #64B5F6;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  box-shadow:  3px 3px #1E88E5;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+a:hover
+{
+  width: 200px;
+  margin: 2px;
+  background-color:#0D47A1;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  box-shadow: 5px 5px #343537;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+img
+{
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#lagu
+{
+  text-align: center;
+  font-family: Verdana;
+  font-size: 18px;
+  font-style: italic;
+  color:#009688;
+}
