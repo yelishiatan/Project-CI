@@ -1,0 +1,33 @@
+body {
+  background-color: #BBDEFB;
+}
+
+.image-top
+{
+margin-left: 50px;
+margin-right: 50px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.bg-dark {
+  background-color: #1976D2!important;
+}
+
+.card-body {
+  background-color: #C5CAE9;
+}
+.my-4 {
+color : #0D47A1;
+}
+.gambar {
+  margin-left: auto;
+margin-right: auto;
+display: block;
+}
+#song {
+  text-align: center;
+  color: #1976D2;
+}
+#lagu {
+  text-align: center;
+}
