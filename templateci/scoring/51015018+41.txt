@@ -1,0 +1,4 @@
++10 tugas selesai
++5 untuk semua lagu dipanggil dalam 1 controller
++2x5 = +10 untuk setiap function dalam controller
++2x8 = +16 untuk setiap custom selector dalam custom css
